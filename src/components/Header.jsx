@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
 import {
   Collapse,
   Navbar,
@@ -56,5 +55,3 @@ class Header extends Component {
 }
 
 export default Header;
-Header.propTypes = {};
-Header.defaultProps = {};

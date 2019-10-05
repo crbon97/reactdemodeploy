@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
 
 class Contact extends Component {
   state = {};
@@ -10,5 +9,3 @@ class Contact extends Component {
 }
 
 export default Contact;
-Contact.propTypes = {};
-Contact.defaultProps = {};

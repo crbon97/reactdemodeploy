@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Route, Switch, Redirect } from "react-router-dom";
-import PropTypes from "prop-types";
 import indexRoutes from "../routes";
 import Header from "../components/Header";
 
@@ -26,5 +25,3 @@ class LandingPage extends Component {
 }
 
 export default LandingPage;
-LandingPage.propTypes = {};
-LandingPage.defaultProps = {};

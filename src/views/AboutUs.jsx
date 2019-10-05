@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
 
 class AboutUs extends Component {
   state = {};
@@ -10,5 +9,3 @@ class AboutUs extends Component {
 }
 
 export default AboutUs;
-AboutUs.propTypes = {};
-AboutUs.defaultProps = {};
